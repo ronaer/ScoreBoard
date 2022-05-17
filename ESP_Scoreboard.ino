@@ -1,5 +1,5 @@
 /*
- * İzmir / Mayıs 2022 / skoreboard demo
+ * İzmir / Dr.TRonik Youtube / Mayıs 2022 / skoreboard demo
  * NodeMcu & RC_Switch Library
  * https://youtu.be/OqX2fHuU8xA
  */
